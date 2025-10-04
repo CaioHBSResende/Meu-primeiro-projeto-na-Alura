@@ -1,0 +1,1 @@
+Este é o meu primeiro projeto no front-end. Sou iniciante, comecei a estudar na Alura e pretendo seguir com a careira no front-end, no fim de me tornar full-Stack. Vou atualizando este projeto ao decorrer do tempo que eu for adquirindo mais conhecimento. É apenas um site para mostrar meus filmes favoritos.
